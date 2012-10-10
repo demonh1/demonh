@@ -1,10 +1,5 @@
 package com.chat;
 
-/**
- *
- * @author demonh
- */
-
 import java.io.Serializable;
 
 public class ChatMessage implements Serializable {
